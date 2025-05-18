@@ -18,11 +18,11 @@
 !insertmacro LANG_STRING STRING_HELP_US_BUTTON "Bize yardım et!"
 !insertmacro LANG_STRING STRING_SWC "PlayerGlobal.swc indirin"
 !insertmacro LANG_STRING STRING_SWC_CHECK "En yeni PlayerGlobal.swc dosyası için Adobe sitesini kontrol et"
-!insertmacro LANG_STRING STRING_SOL_EDITOR "Sol cookie editor"
+!insertmacro LANG_STRING STRING_SOL_EDITOR "Sol çerez düzenleyici"
 
 ;Flash ActiveX:
 !insertmacro LANG_STRING STRING_FLASH_AX_REQUIRED_TITLE "Flash Player ActiveX denetimi gerekiyor"
-!insertmacro LANG_STRING STRING_FLASH_AX_REQUIRED "Bu uygulama Flash ActiveX kontrolü gerektiriyor"
+!insertmacro LANG_STRING STRING_FLASH_AX_REQUIRED "Bu uygulama Flash ActiveX denetimi gerektiriyor"
 !insertmacro LANG_STRING STRING_FLASH_AX_WILLINSTALL "Bu uygulama, Flash ActiveX denetiminin kurulmasını gerektirir. Bu, kurulumun bir parçası olarak indirilecek ve yüklenecektir."
 !insertmacro LANG_STRING STRING_FLASH_AX_ALREADYINSTALLED "Flash ActiveX yüklü"
 !insertmacro LANG_STRING STRING_FLASH_AX_MISSING "Sonuç: Flash ActiveX eksik."
